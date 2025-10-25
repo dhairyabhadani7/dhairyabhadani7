@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhairya Bhadani
 
-<!--
-**dhairyabhadani7/dhairyabhadani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Java Backend Developer | Passionate about building scalable APIs and solving real-world backend challenges  
+🌱 Currently learning Spring Boot, Docker, and System Design  
+🔍 Interested in backend development, problem-solving, and building clean, maintainable code  
+📫 Reach me: [LinkedIn](www.linkedin.com/in/dhairya7) | [Email](mailto:dhairyabhdani7@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tech Stack
+- **Languages:** Java, SQL  
+- **Frameworks:** Spring Boot, Hibernate  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, Docker  
+
+---
+
+### 🛠 Projects
+- **Employee Management System** – RESTful backend built with Java, Spring Boot & MySQL  
+  [GitHub Repo](https://github.com/dhairyabhadani7/employee-management)  
+
+- **Blog Platform API** – Backend API with authentication, CRUD operations, and database integration  
+  [GitHub Repo](https://github.com/dhairyabhadani7/blog-platform)  
+
+- **Java Practice Projects** – Collections, Streams, and JDBC exercises  
+  [GitHub Repo](https://github.com/dhairyabhadani7/java-practice)  
+
+---
+
+### 📈 GitHub Activity
+I actively contribute to projects weekly to improve my backend development skills and build real-world applications.
+
+---
+
+⭐ **Goal:** Transition fully into backend development, build scalable APIs, and contribute to enterprise-level systems.
