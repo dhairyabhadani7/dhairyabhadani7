@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhairya Bhadani
 
-💻 Aspiring Java Backend Developer | Passionate about building scalable APIs and solving real-world backend challenges  
+💻 Java Backend Developer | Passionate about building scalable APIs and solving real-world backend challenges  
 🌱 Currently learning Spring Boot, Docker, and System Design  
 🔍 Interested in backend development, problem-solving, and building clean, maintainable code  
 📫 Reach me: [LinkedIn](www.linkedin.com/in/dhairya7) | [Email](mailto:dhairyabhdani7@gmail.com)
