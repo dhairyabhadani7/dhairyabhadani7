@@ -10,7 +10,7 @@
 ### 🧩 Tech Stack
 - **Languages:** Java, SQL  
 - **Frameworks:** Spring Boot, Hibernate  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** Postgresql, MongoDB  
 - **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, Docker  
 
 ---
